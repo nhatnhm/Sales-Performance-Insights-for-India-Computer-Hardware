@@ -30,7 +30,7 @@ AtliQ's database structure as seen below consists of five tables: customers, dat
 - **Electricalsara Store** was the largest customer, contributing **413 million INR** (**42% of total revenue**), highlighting a high dependency risk on a single partner.
 - Traditional retail channels dominated with **76%** of revenue, **3.2 times higher** than **e-commerce** (24%).
 
-![Key Insight](Visualization/Key_Insight_Dashboard.jpg)
+![Key Insight](Visualization/Key_Insight_Dashboard.png)
 ## Profit Analyst 
 ### All Time
 - The **Gross Profit Margin**, **Gross Profit**, and **Revenue All-time** are **2.5%**, **₹24.7M**, and **₹985M**, respectively. The **Profit %** across markets is relatively consistent, ranging from **5% and below**. However, it is worth noting that the **Bengaluru market** has a negative **Profit %** of **-20.9%**
