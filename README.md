@@ -19,15 +19,18 @@ AtliQ's database structure as seen below consists of five tables: customers, dat
 ![Data Structure](Data/Data_Structure.png)
 # Executive Summary
 ## Key Insight
+**Company Revenue Analysis for the Period 2017–2020**
+- The company achieved total revenue of **985 million INR** and sold **2 million products** between 2017 and 2020. However, revenue declined sharply after peaking at **43 million INR** in 2018, dropping to **15 million INR** by 2020 (a **65% decrease**).
+  
+**Market Analysis**
+- **Delhi NCR** emerged as the dominant market, contributing **483 million INR** (**42% of total revenue**) and **894 thousand units sold** (**37% of total sales volume**).
+- Mumbai, Ahmedabad, Nagpur, and Kochi had lower contributions, reflecting an intense geographical concentration.
 
-- The total revenue is **₹985M**, the total sales quantity is **2M units**
--   **Delhi NCR** contributes the largest share of revenue (**₹483M**) and sales quantity (**894K units**), significantly outperforming other regions, other notable markets include Mumbai, Ahmedabad, and Kochi, though their contributions are much smaller
-- Sales peaked around early 2018 and have gradually declined over time. There is a notable drop in sales from late 2019 to early 2020, with a sharp decline observed in June 2020
--   **Electricalsara Store** is the largest contributor to revenue (**₹413M**), far ahead of other customers such as **Electricalsytic**, **Excel Stores**, **Premium Store**, and **Nixon**, among the top 5 customers, most are from traditional commerce channels
--   An unnamed product (labeled as "Blank") accounts for the largest share of revenue (**₹469M**), other products, such as **Prod040**, **Prod159**, **Prod065**, and **Prod018**, contribute revenues ranging from **₹16M to ₹24M**, significantly lower than the "Blank" product
-- **Traditional commerce (Brick & Mortar)** dominates over **e-commerce**, contributing the majority of revenue, sales quantity, and top customer transactions
+**Key Customers & Distribution Channels**
+- **Electricalsara Store** was the largest customer, contributing **413 million INR** (**42% of total revenue**), highlighting a high dependency risk on a single partner.
+- Traditional retail channels dominated with **76%** of revenue, **3.2 times higher** than **e-commerce** (24%).
 
-![Key Insight](Visualization/Key_Insight_Dashboard.jpg)
+![Key Insight](Visualization/Key_Insight_Dashboard.png)
 ## Profit Analyst 
 ### All Time
 - The **Gross Profit Margin**, **Gross Profit**, and **Revenue All-time** are **2.5%**, **₹24.7M**, and **₹985M**, respectively. The **Profit %** across markets is relatively consistent, ranging from **5% and below**. However, it is worth noting that the **Bengaluru market** has a negative **Profit %** of **-20.9%**
