@@ -31,27 +31,16 @@ AtliQ's database structure as seen below consists of five tables: customers, dat
 - Traditional retail channels dominated with **76%** of revenue, **3.2 times higher** than **e-commerce** (24%).
 
 ![Key Insight](Visualization/Key_Insight_Dashboard.png)
-## Profit Analyst 
-### All Time
-- The **Gross Profit Margin**, **Gross Profit**, and **Revenue All-time** are **2.5%**, **₹24.7M**, and **₹985M**, respectively. The **Profit %** across markets is relatively consistent, ranging from **5% and below**. However, it is worth noting that the **Bengaluru market** has a negative **Profit %** of **-20.9%**
-- The **Delhi NCR market** leads in **Profit Contribution %**, accounting for **48.5%**. The four largest markets, namely **Delhi NCR, Mumbai, Ahmedabad, and Bhopal**, contribute **89%** of the total market's **Profit Contribution %**. Similarly, in **Revenue Contribution %**, the **Delhi NCR market** holds the largest share at **52.8%**, while the four largest markets collectively contribute **87%** of the total **Revenue Contribution %**
-- The **Gross Profit Trend** remained stable in **2018** and **2019**, although there was a significant drop in mid-2018, followed by a recovery to levels close to those of 2019. In **2020**, the **Gross Profit Trend** decreased significantly compared to the same period in the previous year
-- **Electricalsara Stores** contributed the largest proportion, accounting for **42% of total revenue**, and also made up **37.7% of Profit Margin Contribution %**, significantly surpassing all other customers
+## Market Segmentation
+### Underutilized Profit Markets
+- In 2020, the four markets of **Hyderabad**, **Chennai**, **Kochi**, and **Patna** achieved **gross profit margins** of **6.7%**, **6.3%**, **4.7%**, and **4.5%**, respectively. Although they accounted for only about **5%** of **total revenue,** these markets **contributed** nearly **20%** of **total gross profit**.
+- This disproportionate profit performance relative to their revenue share indicates **lower operating costs**, **higher value-added offerings**, or **more favorable pricing** in these regions. These markets can be seen as “**Underutilized Profit**” with significant earnings potential, suggesting the company should consider further investments or tailored strategies to tap into their potential fully.
+![Underutilized_Profit_Markets](Visualization/Underutilized_Profit_Markets.jpg)
+### Low-Margin Markets 
+- The three key markets **Delhi** **NCR**, **Mumbai**, and **Ahmedabad**, account for **82%** of **revenue** and contribute **65.1%** of **profit**, yet their average profit margin is only **1.2%**. In particular, **Delhi NCR** remains the company’s **core market—consistently** delivering around **50%** of **both** **revenue** and **profit** from 2017 to 2019—but its **profit margin fell** to just **0.6%** in the **first half of 2020**, sharply dragging down overall revenue and profit.
+- **Mumbai** and **Ahmedabad** also rank among the **top** **revenue** drivers, they suffer from **persistently** **low** **profit** margins with little improvement over the past three years. Therefore, it is crucial to focus on boosting profitability in these two markets to optimize total revenue.
+  
 
-![Profit Analyst](Visualization/Profit_Analyst_AllTime_Dashboard.jpg)
-### 2020
-- The **Gross Profit Margin** stood at only **1.4%**, reflecting a very low profitability relative to revenue. Total **Revenue** amounted to **₹142M**, whereas **Gross Profit** was just **₹2.1M**, indicating that direct costs consumed the majority of the revenue
-- The **Bhubaneshwar market** has the highest **Profit %** (**10.5%**), demonstrating strong performance compared to other markets. On the other hand, the **Lucknow market** has negative returns (**-2.7%**), which requires careful consideration in terms of trading strategy and cost management
-- The three largest markets (**Mumbai**, **Delhi NCR**, and **Ahmedabad**) accounted for **65%** of total **Profit Contribute %**. The remaining markets contributed less than **10%**, with the lowest negative contribution coming from **Lucknow** (**-0.6%**)
-- **Delhi NCR** leads the way, accounting for **54.7%** of total revenue. **Mumbai** (**14.2%**) and **Ahmedabad** (**12.7%**) are the next highest revenue markets. The remaining markets contribute less than **6%**, with **Bhubaneshwar** accounting for the lowest at **0.1%**
-- **Gross Profit** has decreased sharply month by month compared to the same period last year. The sharpest decrease was in **April 2020** (**-82%**). Other months saw a decline from **-48%** (January) to **-70%** (June), indicating a prolonged downward trend
-- The three largest customers in terms of **Revenue Contribute % ** and **Profit Margin Contribute %** are **Electricalsara Stores**, **Excel Stores**, and **Surge Stores**. **Electricalsara Stores** accounts for **46.2%** of revenue but has a profit margin of only **0.4%**. **Excel Stores** and **Surge Stores** have better profit margins of **3.3%** and **6.2%** respectively, despite their smaller revenue contributions (**5.6%** and **2.8%**).
-![Profit Analyst](Visualization/Profit_Analyst_2020_Dashboard.jpg)
-## Performance Insight
-- Sales Quantity: **350K units**. Gross Profit: **₹2.1M**. Revenue: **₹142M**. Average Profit Margin: **1.4%**, which is below the Profit Target of **2%**
-- Best-performing markets: **Bhubaneswar** with a profit margin of **10.5%** (highest), followed by **Hyderabad** at **6.7%** and **Chennai** at **6.3%**. Markets that underperformed the profit target: **Bhopal** at **1.4%**, **Surat** at **0.9%**, **Delhi NCR** at **0.6%**, **Kanpur** at **0.4%**, and **Lucknow** at **-2.7%** (lowest, incurring a loss)
-- Revenues have steadily declined in 2020 compared to the same period last year, with a decrease of **-18.6% in January** and a record drop of **-41.9% in June**. The **Profit Margin** has also shown a consistent downward trend, dropping from approximately **3.1% in January** to **~1.3% in June**, with the lowest point recorded in **April** at a Profit Margin of **0.5%**.
-![Performance Insight](Visualization/Performance_Insight_Dashboard.jpg)
 ## Recommendation
 - Revenue is currently heavily reliant on the **Delhi NCR market**, particularly on **Electricalsara Stores**, making sales highly susceptible to volatility. To mitigate this risk, it is essential to diversify the sales network by targeting a broader customer base and **expanding into additional markets**. Simultaneously, efforts should be made to further **develop e-commerce channels**, which currently contribute only a small share of the total revenue
 - In high **Gross Profit** markets like **Bhubaneshwar, Hyderabad, and Chennai** with limited customers, businesses should focus on increasing revenue by maximizing value from existing customers through **up-sell**, **cross-sell**, and tailored incentives. Expanding the customer network can be achieved by encouraging referrals from current retailers with **commission-based rewards**. Additionally, enhance **brand awareness** through B2B marketing strategies such as hosting **workshops** and participating in **trade exhibitions** to build credibility and attract new retailers
