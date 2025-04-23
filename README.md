@@ -35,6 +35,7 @@ AtliQ's database structure as seen below consists of five tables: customers, dat
 ### Underutilized Profit Markets
 - In 2020, the four markets of **Hyderabad**, **Chennai**, **Kochi**, and **Patna** achieved **gross profit margins** of **6.7%**, **6.3%**, **4.7%**, and **4.5%**, respectively. Although they accounted for only about **5%** of **total revenue,** these markets **contributed** nearly **20%** of **total gross profit**.
 - This disproportionate profit performance relative to their revenue share indicates **lower operating costs**, **higher value-added offerings**, or **more favorable pricing** in these regions. These markets can be seen as “**Underutilized Profit**” with significant earnings potential, suggesting the company should consider further investments or tailored strategies to tap into their potential fully.
+![Underutilized_Profit_Markets](Visualization/Underutilized_Profit_Markets.jpg)
 
 ## Recommendation
 - Revenue is currently heavily reliant on the **Delhi NCR market**, particularly on **Electricalsara Stores**, making sales highly susceptible to volatility. To mitigate this risk, it is essential to diversify the sales network by targeting a broader customer base and **expanding into additional markets**. Simultaneously, efforts should be made to further **develop e-commerce channels**, which currently contribute only a small share of the total revenue
